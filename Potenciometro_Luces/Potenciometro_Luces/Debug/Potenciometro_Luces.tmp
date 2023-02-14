@@ -1,0 +1,34 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>C:\Users\lemba\Documents\Atmel Studio\7.0\Potenciometro_Luces\Potenciometro_Luces\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.6.364\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\lemba\Documents\Atmel Studio\7.0\Potenciometro_Luces\Potenciometro_Luces\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.6.364\avrasm\inc\m328Pdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\lemba\Documents\Atmel Studio\7.0\Potenciometro_Luces\Potenciometro_Luces\Debug\Potenciometro_Luces.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Potenciometro_Luces.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Potenciometro_Luces.map</FILE>
+  <FILE>Potenciometro_Luces.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <config_ADC><FILE>C:\Users\lemba\Documents\Atmel Studio\7.0\Potenciometro_Luces\Potenciometro_Luces\main.asm</FILE><LINE>62</LINE></config_ADC>
+  <loopGeneral><FILE>C:\Users\lemba\Documents\Atmel Studio\7.0\Potenciometro_Luces\Potenciometro_Luces\main.asm</FILE><LINE>14</LINE></loopGeneral>
+  <esperaADC><FILE>C:\Users\lemba\Documents\Atmel Studio\7.0\Potenciometro_Luces\Potenciometro_Luces\main.asm</FILE><LINE>20</LINE></esperaADC>
+  <secuencia><FILE>C:\Users\lemba\Documents\Atmel Studio\7.0\Potenciometro_Luces\Potenciometro_Luces\main.asm</FILE><LINE>34</LINE></secuencia>
+  <comparar2><FILE>C:\Users\lemba\Documents\Atmel Studio\7.0\Potenciometro_Luces\Potenciometro_Luces\main.asm</FILE><LINE>40</LINE></comparar2>
+  <apagar><FILE>C:\Users\lemba\Documents\Atmel Studio\7.0\Potenciometro_Luces\Potenciometro_Luces\main.asm</FILE><LINE>53</LINE></apagar>
+  <arcoIris><FILE>C:\Users\lemba\Documents\Atmel Studio\7.0\Potenciometro_Luces\Potenciometro_Luces\main.asm</FILE><LINE>47</LINE></arcoIris>
+  <seguir><FILE>C:\Users\lemba\Documents\Atmel Studio\7.0\Potenciometro_Luces\Potenciometro_Luces\main.asm</FILE><LINE>58</LINE></seguir>
+ </LABELS>
+</ASSEMBLER_INFO>

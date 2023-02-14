@@ -1,0 +1,35 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>c:\users\lemba\Documents\Atmel Studio\7.0\Sensor_Prueba\Sensor_Prueba\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.6.364\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>c:\users\lemba\Documents\Atmel Studio\7.0\Sensor_Prueba\Sensor_Prueba\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.6.364\avrasm\inc\m328Pdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>c:\users\lemba\Documents\Atmel Studio\7.0\Sensor_Prueba\Sensor_Prueba\Debug\Sensor_Prueba.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Sensor_Prueba.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Sensor_Prueba.map</FILE>
+  <FILE>Sensor_Prueba.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <var1><FILE>c:\users\lemba\Documents\Atmel Studio\7.0\Sensor_Prueba\Sensor_Prueba\main.asm</FILE><LINE>13</LINE></var1>
+  <var2><FILE>c:\users\lemba\Documents\Atmel Studio\7.0\Sensor_Prueba\Sensor_Prueba\main.asm</FILE><LINE>14</LINE></var2>
+  <config_sensor><FILE>c:\users\lemba\Documents\Atmel Studio\7.0\Sensor_Prueba\Sensor_Prueba\main.asm</FILE><LINE>109</LINE></config_sensor>
+  <loopGeneral><FILE>c:\users\lemba\Documents\Atmel Studio\7.0\Sensor_Prueba\Sensor_Prueba\main.asm</FILE><LINE>27</LINE></loopGeneral>
+  <esperaADC><FILE>c:\users\lemba\Documents\Atmel Studio\7.0\Sensor_Prueba\Sensor_Prueba\main.asm</FILE><LINE>33</LINE></esperaADC>
+  <primera_comparacion><FILE>c:\users\lemba\Documents\Atmel Studio\7.0\Sensor_Prueba\Sensor_Prueba\main.asm</FILE><LINE>44</LINE></primera_comparacion>
+  <segunda_comparacion><FILE>c:\users\lemba\Documents\Atmel Studio\7.0\Sensor_Prueba\Sensor_Prueba\main.asm</FILE><LINE>66</LINE></segunda_comparacion>
+  <encender4><FILE>c:\users\lemba\Documents\Atmel Studio\7.0\Sensor_Prueba\Sensor_Prueba\main.asm</FILE><LINE>78</LINE></encender4>
+  <encender8><FILE>c:\users\lemba\Documents\Atmel Studio\7.0\Sensor_Prueba\Sensor_Prueba\main.asm</FILE><LINE>87</LINE></encender8>
+ </LABELS>
+</ASSEMBLER_INFO>

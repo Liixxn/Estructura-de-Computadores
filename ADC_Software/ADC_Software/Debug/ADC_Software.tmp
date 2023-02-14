@@ -1,0 +1,31 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>C:\Users\lemba\Documents\Atmel Studio\7.0\ADC_Software\ADC_Software\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.6.364\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\lemba\Documents\Atmel Studio\7.0\ADC_Software\ADC_Software\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.6.364\avrasm\inc\m328Pdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\lemba\Documents\Atmel Studio\7.0\ADC_Software\ADC_Software\Debug\ADC_Software.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>ADC_Software.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>ADC_Software.map</FILE>
+  <FILE>ADC_Software.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <config_ADC><FILE>C:\Users\lemba\Documents\Atmel Studio\7.0\ADC_Software\ADC_Software\main.asm</FILE><LINE>49</LINE></config_ADC>
+  <loopGeneral><FILE>C:\Users\lemba\Documents\Atmel Studio\7.0\ADC_Software\ADC_Software\main.asm</FILE><LINE>14</LINE></loopGeneral>
+  <esperaADC><FILE>C:\Users\lemba\Documents\Atmel Studio\7.0\ADC_Software\ADC_Software\main.asm</FILE><LINE>20</LINE></esperaADC>
+  <encender><FILE>C:\Users\lemba\Documents\Atmel Studio\7.0\ADC_Software\ADC_Software\main.asm</FILE><LINE>37</LINE></encender>
+  <seguir><FILE>C:\Users\lemba\Documents\Atmel Studio\7.0\ADC_Software\ADC_Software\main.asm</FILE><LINE>41</LINE></seguir>
+ </LABELS>
+</ASSEMBLER_INFO>

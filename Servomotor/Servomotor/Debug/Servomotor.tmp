@@ -1,0 +1,35 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>C:\Users\lemba\Documents\Atmel Studio\7.0\Servomotor\Servomotor\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.6.364\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\lemba\Documents\Atmel Studio\7.0\Servomotor\Servomotor\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.6.364\avrasm\inc\m328Pdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\lemba\Documents\Atmel Studio\7.0\Servomotor\Servomotor\Debug\Servomotor.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Servomotor.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Servomotor.map</FILE>
+  <FILE>Servomotor.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <loop><FILE>C:\Users\lemba\Documents\Atmel Studio\7.0\Servomotor\Servomotor\main.asm</FILE><LINE>12</LINE></loop>
+  <loopLeft><FILE>C:\Users\lemba\Documents\Atmel Studio\7.0\Servomotor\Servomotor\main.asm</FILE><LINE>15</LINE></loopLeft>
+  <Delay0ms><FILE>C:\Users\lemba\Documents\Atmel Studio\7.0\Servomotor\Servomotor\main.asm</FILE><LINE>42</LINE></Delay0ms>
+  <Delay18ms><FILE>C:\Users\lemba\Documents\Atmel Studio\7.0\Servomotor\Servomotor\main.asm</FILE><LINE>53</LINE></Delay18ms>
+  <loopRight><FILE>C:\Users\lemba\Documents\Atmel Studio\7.0\Servomotor\Servomotor\main.asm</FILE><LINE>27</LINE></loopRight>
+  <Delay2ms><FILE>C:\Users\lemba\Documents\Atmel Studio\7.0\Servomotor\Servomotor\main.asm</FILE><LINE>65</LINE></Delay2ms>
+  <L1><FILE>C:\Users\lemba\Documents\Atmel Studio\7.0\Servomotor\Servomotor\main.asm</FILE><LINE>46</LINE></L1>
+  <L2><FILE>C:\Users\lemba\Documents\Atmel Studio\7.0\Servomotor\Servomotor\main.asm</FILE><LINE>57</LINE></L2>
+  <L3><FILE>C:\Users\lemba\Documents\Atmel Studio\7.0\Servomotor\Servomotor\main.asm</FILE><LINE>68</LINE></L3>
+ </LABELS>
+</ASSEMBLER_INFO>

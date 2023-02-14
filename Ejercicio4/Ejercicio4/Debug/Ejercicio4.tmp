@@ -1,0 +1,30 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>c:\users\lemba\Documents\Atmel Studio\7.0\Ejercicio4\Ejercicio4\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.6.364\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>c:\users\lemba\Documents\Atmel Studio\7.0\Ejercicio4\Ejercicio4\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.6.364\avrasm\inc\m328Pdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>c:\users\lemba\Documents\Atmel Studio\7.0\Ejercicio4\Ejercicio4\Debug\Ejercicio4.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Ejercicio4.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Ejercicio4.map</FILE>
+  <FILE>Ejercicio4.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <main><FILE>c:\users\lemba\Documents\Atmel Studio\7.0\Ejercicio4\Ejercicio4\main.asm</FILE><LINE>22</LINE></main>
+  <repetir><FILE>c:\users\lemba\Documents\Atmel Studio\7.0\Ejercicio4\Ejercicio4\main.asm</FILE><LINE>26</LINE></repetir>
+  <funcionDelay10ms><FILE>c:\users\lemba\Documents\Atmel Studio\7.0\Ejercicio4\Ejercicio4\main.asm</FILE><LINE>53</LINE></funcionDelay10ms>
+  <L1><FILE>c:\users\lemba\Documents\Atmel Studio\7.0\Ejercicio4\Ejercicio4\main.asm</FILE><LINE>71</LINE></L1>
+ </LABELS>
+</ASSEMBLER_INFO>

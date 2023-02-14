@@ -1,0 +1,37 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>c:\users\lemba\Documents\Atmel Studio\7.0\Ejercicio_Alarma_Prueba_Bucles\Ejercicio_Alarma_Prueba_Bucles\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.6.364\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>c:\users\lemba\Documents\Atmel Studio\7.0\Ejercicio_Alarma_Prueba_Bucles\Ejercicio_Alarma_Prueba_Bucles\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.6.364\avrasm\inc\m328Pdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>c:\users\lemba\Documents\Atmel Studio\7.0\Ejercicio_Alarma_Prueba_Bucles\Ejercicio_Alarma_Prueba_Bucles\Debug\Ejercicio_Alarma_Prueba_Bucles.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Ejercicio_Alarma_Prueba_Bucles.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Ejercicio_Alarma_Prueba_Bucles.map</FILE>
+  <FILE>Ejercicio_Alarma_Prueba_Bucles.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <contador><FILE>c:\users\lemba\Documents\Atmel Studio\7.0\Ejercicio_Alarma_Prueba_Bucles\Ejercicio_Alarma_Prueba_Bucles\main.asm</FILE><LINE>9</LINE></contador>
+  <main><FILE>c:\users\lemba\Documents\Atmel Studio\7.0\Ejercicio_Alarma_Prueba_Bucles\Ejercicio_Alarma_Prueba_Bucles\main.asm</FILE><LINE>34</LINE></main>
+  <USART0_reception_completed><FILE>c:\users\lemba\Documents\Atmel Studio\7.0\Ejercicio_Alarma_Prueba_Bucles\Ejercicio_Alarma_Prueba_Bucles\main.asm</FILE><LINE>122</LINE></USART0_reception_completed>
+  <init_USART0><FILE>c:\users\lemba\Documents\Atmel Studio\7.0\Ejercicio_Alarma_Prueba_Bucles\Ejercicio_Alarma_Prueba_Bucles\main.asm</FILE><LINE>88</LINE></init_USART0>
+  <BucleLoop><FILE>c:\users\lemba\Documents\Atmel Studio\7.0\Ejercicio_Alarma_Prueba_Bucles\Ejercicio_Alarma_Prueba_Bucles\main.asm</FILE><LINE>46</LINE></BucleLoop>
+  <loop><FILE>c:\users\lemba\Documents\Atmel Studio\7.0\Ejercicio_Alarma_Prueba_Bucles\Ejercicio_Alarma_Prueba_Bucles\main.asm</FILE><LINE>58</LINE></loop>
+  <bucle><FILE>c:\users\lemba\Documents\Atmel Studio\7.0\Ejercicio_Alarma_Prueba_Bucles\Ejercicio_Alarma_Prueba_Bucles\main.asm</FILE><LINE>52</LINE></bucle>
+  <apagar><FILE>c:\users\lemba\Documents\Atmel Studio\7.0\Ejercicio_Alarma_Prueba_Bucles\Ejercicio_Alarma_Prueba_Bucles\main.asm</FILE><LINE>66</LINE></apagar>
+  <funcionDelay250ms><FILE>c:\users\lemba\Documents\Atmel Studio\7.0\Ejercicio_Alarma_Prueba_Bucles\Ejercicio_Alarma_Prueba_Bucles\main.asm</FILE><LINE>151</LINE></funcionDelay250ms>
+  <EsPar><FILE>c:\users\lemba\Documents\Atmel Studio\7.0\Ejercicio_Alarma_Prueba_Bucles\Ejercicio_Alarma_Prueba_Bucles\main.asm</FILE><LINE>142</LINE></EsPar>
+  <L1><FILE>c:\users\lemba\Documents\Atmel Studio\7.0\Ejercicio_Alarma_Prueba_Bucles\Ejercicio_Alarma_Prueba_Bucles\main.asm</FILE><LINE>161</LINE></L1>
+ </LABELS>
+</ASSEMBLER_INFO>

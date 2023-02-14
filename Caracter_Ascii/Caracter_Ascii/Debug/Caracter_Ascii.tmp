@@ -1,0 +1,30 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>C:\Users\lemba\Documents\Atmel Studio\7.0\Caracter_Ascii\Caracter_Ascii\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.6.364\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\lemba\Documents\Atmel Studio\7.0\Caracter_Ascii\Caracter_Ascii\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.6.364\avrasm\inc\m328Pdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\lemba\Documents\Atmel Studio\7.0\Caracter_Ascii\Caracter_Ascii\Debug\Caracter_Ascii.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Caracter_Ascii.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Caracter_Ascii.map</FILE>
+  <FILE>Caracter_Ascii.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <main><FILE>C:\Users\lemba\Documents\Atmel Studio\7.0\Caracter_Ascii\Caracter_Ascii\main.asm</FILE><LINE>23</LINE></main>
+  <USART0_reception_completed><FILE>C:\Users\lemba\Documents\Atmel Studio\7.0\Caracter_Ascii\Caracter_Ascii\main.asm</FILE><LINE>71</LINE></USART0_reception_completed>
+  <init_USART0><FILE>C:\Users\lemba\Documents\Atmel Studio\7.0\Caracter_Ascii\Caracter_Ascii\main.asm</FILE><LINE>40</LINE></init_USART0>
+  <loop><FILE>C:\Users\lemba\Documents\Atmel Studio\7.0\Caracter_Ascii\Caracter_Ascii\main.asm</FILE><LINE>32</LINE></loop>
+ </LABELS>
+</ASSEMBLER_INFO>

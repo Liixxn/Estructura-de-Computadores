@@ -1,0 +1,35 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>C:\Users\lemba\Documents\Atmel Studio\7.0\Ejercicio_Alarma\Ejercicio_Alarma\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.6.364\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\lemba\Documents\Atmel Studio\7.0\Ejercicio_Alarma\Ejercicio_Alarma\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.6.364\avrasm\inc\m328Pdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\lemba\Documents\Atmel Studio\7.0\Ejercicio_Alarma\Ejercicio_Alarma\Debug\Ejercicio_Alarma.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Ejercicio_Alarma.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Ejercicio_Alarma.map</FILE>
+  <FILE>Ejercicio_Alarma.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <contador><FILE>C:\Users\lemba\Documents\Atmel Studio\7.0\Ejercicio_Alarma\Ejercicio_Alarma\main.asm</FILE><LINE>10</LINE></contador>
+  <main><FILE>C:\Users\lemba\Documents\Atmel Studio\7.0\Ejercicio_Alarma\Ejercicio_Alarma\main.asm</FILE><LINE>35</LINE></main>
+  <USART0_reception_completed><FILE>C:\Users\lemba\Documents\Atmel Studio\7.0\Ejercicio_Alarma\Ejercicio_Alarma\main.asm</FILE><LINE>112</LINE></USART0_reception_completed>
+  <init_USART0><FILE>C:\Users\lemba\Documents\Atmel Studio\7.0\Ejercicio_Alarma\Ejercicio_Alarma\main.asm</FILE><LINE>78</LINE></init_USART0>
+  <BucleLoop><FILE>C:\Users\lemba\Documents\Atmel Studio\7.0\Ejercicio_Alarma\Ejercicio_Alarma\main.asm</FILE><LINE>47</LINE></BucleLoop>
+  <loop><FILE>C:\Users\lemba\Documents\Atmel Studio\7.0\Ejercicio_Alarma\Ejercicio_Alarma\main.asm</FILE><LINE>54</LINE></loop>
+  <funcionDelay250ms><FILE>C:\Users\lemba\Documents\Atmel Studio\7.0\Ejercicio_Alarma\Ejercicio_Alarma\main.asm</FILE><LINE>140</LINE></funcionDelay250ms>
+  <EsPar><FILE>C:\Users\lemba\Documents\Atmel Studio\7.0\Ejercicio_Alarma\Ejercicio_Alarma\main.asm</FILE><LINE>131</LINE></EsPar>
+  <L1><FILE>C:\Users\lemba\Documents\Atmel Studio\7.0\Ejercicio_Alarma\Ejercicio_Alarma\main.asm</FILE><LINE>150</LINE></L1>
+ </LABELS>
+</ASSEMBLER_INFO>

@@ -1,0 +1,38 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>C:\Users\lemba\Documents\Atmel Studio\7.0\Alarma_ejemploProfe\Alarma_ejemploProfe\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.6.364\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\lemba\Documents\Atmel Studio\7.0\Alarma_ejemploProfe\Alarma_ejemploProfe\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.6.364\avrasm\inc\m328Pdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\lemba\Documents\Atmel Studio\7.0\Alarma_ejemploProfe\Alarma_ejemploProfe\Debug\Alarma_ejemploProfe.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Alarma_ejemploProfe.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Alarma_ejemploProfe.map</FILE>
+  <FILE>Alarma_ejemploProfe.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <varContador><FILE>C:\Users\lemba\Documents\Atmel Studio\7.0\Alarma_ejemploProfe\Alarma_ejemploProfe\main.asm</FILE><LINE>9</LINE></varContador>
+  <main><FILE>C:\Users\lemba\Documents\Atmel Studio\7.0\Alarma_ejemploProfe\Alarma_ejemploProfe\main.asm</FILE><LINE>34</LINE></main>
+  <USART0_reception_completed><FILE>C:\Users\lemba\Documents\Atmel Studio\7.0\Alarma_ejemploProfe\Alarma_ejemploProfe\main.asm</FILE><LINE>121</LINE></USART0_reception_completed>
+  <init_USART0><FILE>C:\Users\lemba\Documents\Atmel Studio\7.0\Alarma_ejemploProfe\Alarma_ejemploProfe\main.asm</FILE><LINE>87</LINE></init_USART0>
+  <Bucle><FILE>C:\Users\lemba\Documents\Atmel Studio\7.0\Alarma_ejemploProfe\Alarma_ejemploProfe\main.asm</FILE><LINE>48</LINE></Bucle>
+  <loop><FILE>C:\Users\lemba\Documents\Atmel Studio\7.0\Alarma_ejemploProfe\Alarma_ejemploProfe\main.asm</FILE><LINE>57</LINE></loop>
+  <Delay500ms><FILE>C:\Users\lemba\Documents\Atmel Studio\7.0\Alarma_ejemploProfe\Alarma_ejemploProfe\main.asm</FILE><LINE>145</LINE></Delay500ms>
+  <seguir><FILE>C:\Users\lemba\Documents\Atmel Studio\7.0\Alarma_ejemploProfe\Alarma_ejemploProfe\main.asm</FILE><LINE>74</LINE></seguir>
+  <continuar><FILE>C:\Users\lemba\Documents\Atmel Studio\7.0\Alarma_ejemploProfe\Alarma_ejemploProfe\main.asm</FILE><LINE>135</LINE></continuar>
+  <L1><FILE>C:\Users\lemba\Documents\Atmel Studio\7.0\Alarma_ejemploProfe\Alarma_ejemploProfe\main.asm</FILE><LINE>153</LINE></L1>
+  <Delay1s><FILE>C:\Users\lemba\Documents\Atmel Studio\7.0\Alarma_ejemploProfe\Alarma_ejemploProfe\main.asm</FILE><LINE>170</LINE></Delay1s>
+  <L2><FILE>C:\Users\lemba\Documents\Atmel Studio\7.0\Alarma_ejemploProfe\Alarma_ejemploProfe\main.asm</FILE><LINE>179</LINE></L2>
+ </LABELS>
+</ASSEMBLER_INFO>

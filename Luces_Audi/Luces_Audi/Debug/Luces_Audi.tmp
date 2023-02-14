@@ -1,0 +1,34 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>C:\Users\lemba\Documents\Atmel Studio\7.0\Luces_Audi\Luces_Audi\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.6.364\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\lemba\Documents\Atmel Studio\7.0\Luces_Audi\Luces_Audi\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.6.364\avrasm\inc\m328Pdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\lemba\Documents\Atmel Studio\7.0\Luces_Audi\Luces_Audi\Debug\Luces_Audi.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Luces_Audi.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Luces_Audi.map</FILE>
+  <FILE>Luces_Audi.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <main><FILE>C:\Users\lemba\Documents\Atmel Studio\7.0\Luces_Audi\Luces_Audi\main.asm</FILE><LINE>20</LINE></main>
+  <repetir><FILE>C:\Users\lemba\Documents\Atmel Studio\7.0\Luces_Audi\Luces_Audi\main.asm</FILE><LINE>22</LINE></repetir>
+  <funcionDelay50ms><FILE>C:\Users\lemba\Documents\Atmel Studio\7.0\Luces_Audi\Luces_Audi\main.asm</FILE><LINE>50</LINE></funcionDelay50ms>
+  <funcionDelay1s><FILE>C:\Users\lemba\Documents\Atmel Studio\7.0\Luces_Audi\Luces_Audi\main.asm</FILE><LINE>78</LINE></funcionDelay1s>
+  <funcionDelay500ms><FILE>C:\Users\lemba\Documents\Atmel Studio\7.0\Luces_Audi\Luces_Audi\main.asm</FILE><LINE>107</LINE></funcionDelay500ms>
+  <L1><FILE>C:\Users\lemba\Documents\Atmel Studio\7.0\Luces_Audi\Luces_Audi\main.asm</FILE><LINE>59</LINE></L1>
+  <L2><FILE>C:\Users\lemba\Documents\Atmel Studio\7.0\Luces_Audi\Luces_Audi\main.asm</FILE><LINE>87</LINE></L2>
+  <L3><FILE>C:\Users\lemba\Documents\Atmel Studio\7.0\Luces_Audi\Luces_Audi\main.asm</FILE><LINE>116</LINE></L3>
+ </LABELS>
+</ASSEMBLER_INFO>

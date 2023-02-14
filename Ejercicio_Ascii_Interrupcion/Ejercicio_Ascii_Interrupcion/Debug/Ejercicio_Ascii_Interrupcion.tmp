@@ -1,0 +1,35 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>C:\Users\lemba\Documents\Atmel Studio\7.0\Ejercicio_Ascii_Interrupcion\Ejercicio_Ascii_Interrupcion\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.6.364\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\lemba\Documents\Atmel Studio\7.0\Ejercicio_Ascii_Interrupcion\Ejercicio_Ascii_Interrupcion\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.6.364\avrasm\inc\m328Pdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\lemba\Documents\Atmel Studio\7.0\Ejercicio_Ascii_Interrupcion\Ejercicio_Ascii_Interrupcion\Debug\Ejercicio_Ascii_Interrupcion.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Ejercicio_Ascii_Interrupcion.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Ejercicio_Ascii_Interrupcion.map</FILE>
+  <FILE>Ejercicio_Ascii_Interrupcion.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <var1><FILE>C:\Users\lemba\Documents\Atmel Studio\7.0\Ejercicio_Ascii_Interrupcion\Ejercicio_Ascii_Interrupcion\main.asm</FILE><LINE>14</LINE></var1>
+  <main><FILE>C:\Users\lemba\Documents\Atmel Studio\7.0\Ejercicio_Ascii_Interrupcion\Ejercicio_Ascii_Interrupcion\main.asm</FILE><LINE>33</LINE></main>
+  <USART0_reception_completed><FILE>C:\Users\lemba\Documents\Atmel Studio\7.0\Ejercicio_Ascii_Interrupcion\Ejercicio_Ascii_Interrupcion\main.asm</FILE><LINE>102</LINE></USART0_reception_completed>
+  <init_USART0><FILE>C:\Users\lemba\Documents\Atmel Studio\7.0\Ejercicio_Ascii_Interrupcion\Ejercicio_Ascii_Interrupcion\main.asm</FILE><LINE>68</LINE></init_USART0>
+  <loop><FILE>C:\Users\lemba\Documents\Atmel Studio\7.0\Ejercicio_Ascii_Interrupcion\Ejercicio_Ascii_Interrupcion\main.asm</FILE><LINE>45</LINE></loop>
+  <funcionDelay250ms><FILE>C:\Users\lemba\Documents\Atmel Studio\7.0\Ejercicio_Ascii_Interrupcion\Ejercicio_Ascii_Interrupcion\main.asm</FILE><LINE>120</LINE></funcionDelay250ms>
+  <L1><FILE>C:\Users\lemba\Documents\Atmel Studio\7.0\Ejercicio_Ascii_Interrupcion\Ejercicio_Ascii_Interrupcion\main.asm</FILE><LINE>129</LINE></L1>
+  <funcionDelay2s><FILE>C:\Users\lemba\Documents\Atmel Studio\7.0\Ejercicio_Ascii_Interrupcion\Ejercicio_Ascii_Interrupcion\main.asm</FILE><LINE>146</LINE></funcionDelay2s>
+  <L2><FILE>C:\Users\lemba\Documents\Atmel Studio\7.0\Ejercicio_Ascii_Interrupcion\Ejercicio_Ascii_Interrupcion\main.asm</FILE><LINE>155</LINE></L2>
+ </LABELS>
+</ASSEMBLER_INFO>

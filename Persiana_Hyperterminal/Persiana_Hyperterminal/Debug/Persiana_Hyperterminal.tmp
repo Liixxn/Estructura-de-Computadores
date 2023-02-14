@@ -1,0 +1,38 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>C:\Users\lemba\Documents\Atmel Studio\7.0\Persiana_Hyperterminal\Persiana_Hyperterminal\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.6.364\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\lemba\Documents\Atmel Studio\7.0\Persiana_Hyperterminal\Persiana_Hyperterminal\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.6.364\avrasm\inc\m328Pdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\lemba\Documents\Atmel Studio\7.0\Persiana_Hyperterminal\Persiana_Hyperterminal\Debug\Persiana_Hyperterminal.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Persiana_Hyperterminal.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Persiana_Hyperterminal.map</FILE>
+  <FILE>Persiana_Hyperterminal.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <var1><FILE>C:\Users\lemba\Documents\Atmel Studio\7.0\Persiana_Hyperterminal\Persiana_Hyperterminal\main.asm</FILE><LINE>9</LINE></var1>
+  <main><FILE>C:\Users\lemba\Documents\Atmel Studio\7.0\Persiana_Hyperterminal\Persiana_Hyperterminal\main.asm</FILE><LINE>29</LINE></main>
+  <USART0_reception_completed><FILE>C:\Users\lemba\Documents\Atmel Studio\7.0\Persiana_Hyperterminal\Persiana_Hyperterminal\main.asm</FILE><LINE>89</LINE></USART0_reception_completed>
+  <config_USART0><FILE>C:\Users\lemba\Documents\Atmel Studio\7.0\Persiana_Hyperterminal\Persiana_Hyperterminal\main.asm</FILE><LINE>56</LINE></config_USART0>
+  <loop><FILE>C:\Users\lemba\Documents\Atmel Studio\7.0\Persiana_Hyperterminal\Persiana_Hyperterminal\main.asm</FILE><LINE>35</LINE></loop>
+  <Delayx001ms><FILE>C:\Users\lemba\Documents\Atmel Studio\7.0\Persiana_Hyperterminal\Persiana_Hyperterminal\main.asm</FILE><LINE>145</LINE></Delayx001ms>
+  <Delay18ms><FILE>C:\Users\lemba\Documents\Atmel Studio\7.0\Persiana_Hyperterminal\Persiana_Hyperterminal\main.asm</FILE><LINE>120</LINE></Delay18ms>
+  <opcionC><FILE>C:\Users\lemba\Documents\Atmel Studio\7.0\Persiana_Hyperterminal\Persiana_Hyperterminal\main.asm</FILE><LINE>102</LINE></opcionC>
+  <terminar><FILE>C:\Users\lemba\Documents\Atmel Studio\7.0\Persiana_Hyperterminal\Persiana_Hyperterminal\main.asm</FILE><LINE>107</LINE></terminar>
+  <L1><FILE>C:\Users\lemba\Documents\Atmel Studio\7.0\Persiana_Hyperterminal\Persiana_Hyperterminal\main.asm</FILE><LINE>129</LINE></L1>
+  <bucleFor><FILE>C:\Users\lemba\Documents\Atmel Studio\7.0\Persiana_Hyperterminal\Persiana_Hyperterminal\main.asm</FILE><LINE>156</LINE></bucleFor>
+  <L2><FILE>C:\Users\lemba\Documents\Atmel Studio\7.0\Persiana_Hyperterminal\Persiana_Hyperterminal\main.asm</FILE><LINE>159</LINE></L2>
+ </LABELS>
+</ASSEMBLER_INFO>

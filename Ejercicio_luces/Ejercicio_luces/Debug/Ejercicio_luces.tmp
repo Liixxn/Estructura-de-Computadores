@@ -1,0 +1,31 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>C:\Users\lemba\Documents\Atmel Studio\7.0\Ejercicio_luces\Ejercicio_luces\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.6.364\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\lemba\Documents\Atmel Studio\7.0\Ejercicio_luces\Ejercicio_luces\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.6.364\avrasm\inc\m328Pdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\lemba\Documents\Atmel Studio\7.0\Ejercicio_luces\Ejercicio_luces\Debug\Ejercicio_luces.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Ejercicio_luces.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Ejercicio_luces.map</FILE>
+  <FILE>Ejercicio_luces.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <main><FILE>C:\Users\lemba\Documents\Atmel Studio\7.0\Ejercicio_luces\Ejercicio_luces\main.asm</FILE><LINE>13</LINE></main>
+  <repetirI><FILE>C:\Users\lemba\Documents\Atmel Studio\7.0\Ejercicio_luces\Ejercicio_luces\main.asm</FILE><LINE>17</LINE></repetirI>
+  <L1_I><FILE>C:\Users\lemba\Documents\Atmel Studio\7.0\Ejercicio_luces\Ejercicio_luces\main.asm</FILE><LINE>24</LINE></L1_I>
+  <repetirD><FILE>C:\Users\lemba\Documents\Atmel Studio\7.0\Ejercicio_luces\Ejercicio_luces\main.asm</FILE><LINE>40</LINE></repetirD>
+  <L1_D><FILE>C:\Users\lemba\Documents\Atmel Studio\7.0\Ejercicio_luces\Ejercicio_luces\main.asm</FILE><LINE>47</LINE></L1_D>
+ </LABELS>
+</ASSEMBLER_INFO>
